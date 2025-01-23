@@ -1,6 +1,6 @@
 # Jogo do Amigo Secreto
 
-Este projeto de **Jogo do Amigo Secreto** foi desenvolvido como parte de um **challenge da Alura**. Ele permite adicionar nomes de amigos, sortear um nome aleatório e exibir o resultado na tela.
+Este projeto de **Jogo do Amigo Secreto** foi desenvolvido como um **challenge da Alura**. Ele permite adicionar nomes de amigos, sortear um nome aleatório e exibir o resultado na tela.
 
 ---
 
